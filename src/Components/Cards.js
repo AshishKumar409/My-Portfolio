@@ -23,6 +23,8 @@ function Cards() {
               label="Work-Out App"
               path="https://work-out-hard.netlify.app/"
             />
+          </ul>
+          <ul className="cards__items">
             <Carditem
               src="images/My-Blog.png"
               text="My Blog"
@@ -37,6 +39,8 @@ function Cards() {
               label="Wikirocket"
               path="https://wiki-rocket-navy.vercel.app/google"
             />
+          </ul>
+          <ul className="cards__items">
             <Carditem
               src="images/pizza.png"
               text=" Landing page"
@@ -50,6 +54,8 @@ function Cards() {
               label="Login form"
               path="https://client-side-form-validation9.netlify.app/"
             />
+          </ul>
+          <ul className="cards__items">
             <Carditem
               src="images/recipe.png"
               text="Recipe app"
