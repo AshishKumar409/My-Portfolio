@@ -10,6 +10,34 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <Carditem
+              src="images/Github-Search-User.png"
+              text="Github User Search"
+              alt="'Github User Search'"
+              label="Github User Search"
+              path="https://search-usersin-github.netlify.app/"
+            />
+            <Carditem
+              src="images/Work-Out.png"
+              text="Work-Out App"
+              alt="'Work-Out App'"
+              label="Work-Out App"
+              path="https://work-out-hard.netlify.app/"
+            />
+            <Carditem
+              src="images/My-Blog.png"
+              text="My Blog"
+              alt="'My Blog'"
+              label="My Blog"
+              path="https://my-blog-gamma-brown.vercel.app/"
+            />
+            <Carditem
+              src="images/wikirocket.png"
+              text="Wikirocket"
+              alt="'Wikirocket'"
+              label="Wikirocket"
+              path="https://wiki-rocket-navy.vercel.app/google"
+            />
+            <Carditem
               src="images/pizza.png"
               text=" Landing page"
               alt="'Pizza Landing page'"
