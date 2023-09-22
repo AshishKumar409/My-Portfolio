@@ -50,8 +50,6 @@ function Cards() {
               label="Login form"
               path="https://client-side-form-validation9.netlify.app/"
             />
-          </ul>
-          <ul className="cards__items">
             <Carditem
               src="images/recipe.png"
               text="Recipe app"
